@@ -1,4 +1,4 @@
-# Connecting-google-assistant-to-device
+# Connecting google assistant to IoT device
 To connect google assistant to your device using Node mcu ESP8266
 
 The steps to be followed are:
@@ -11,4 +11,4 @@ The steps to be followed are:
 
 4.Check if te values are being sent properly
 
-5.To connect nodemcu with the adafruit server the given code should be used with changes being made in the places where there are ###
+5.To connect nodemcu with the adafruit server the given code should be used with changes being made in the places where there are
