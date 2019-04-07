@@ -13,6 +13,6 @@ The steps to be followed are:
 
 3.Create an applet that sends a value 0 when u tell google assistant to turn on the lights and vice versa
 
-4.Check if te values are being sent properly
+4.Check if the values are being sent properly
 
 5.To connect nodemcu with the adafruit server the given code should be used with changes being made in the places where there are
