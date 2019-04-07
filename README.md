@@ -1,4 +1,7 @@
 # Connecting google assistant to IoT device
+
+![language](https://img.shields.io/badge/language-embedded%20C-blue.svg)
+
 To connect google assistant to your device using Node mcu ESP8266
 
 The steps to be followed are:
